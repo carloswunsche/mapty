@@ -16,9 +16,9 @@ Omnifood is a front-end for a fictional food delivery company also named Omnifoo
 
 ## Features
 
-- 100% HTML and CSS
-- Responsive Design
-- Checked for Accesibility
+- Implementation of external libraries such as Leaflet
+- Able to save your workouts locally
+- Simple and easy to use
 
 ## Live preview
 
