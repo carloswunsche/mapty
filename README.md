@@ -1,13 +1,13 @@
 <div align="center">
-  <a href="https://cw-omnifood.netlify.app">
-    <img width="50%" src="img/omnifood-logo.png" alt="Omnifood Logo by Jonas Schmedtmann" title="Omnifood Logo by Jonas Schmedtmann">
+  <a href="https://cw-mapty.netlify.app">
+    <img width="50%" src="logo.png" alt="Mapty Logo by Jonas Schmedtmann" title="Mapty Logo by Jonas Schmedtmann">
   </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/website?up_message=online&amp;url=https%3A%2F%2Fcw-omnifood.netlify.app" alt="Website status">
-    <img src="https://img.shields.io/github/repo-size/carloswunsche/omnifood" alt="Repo size">
-    <img src="https://img.shields.io/github/languages/top/carloswunsche/omnifood" alt="Prominent language">
+  <img src="https://img.shields.io/website?up_message=online&amp;url=https%3A%2F%2Fcw-mapty.netlify.app" alt="Website status">
+    <img src="https://img.shields.io/github/repo-size/carloswunsche/mapty" alt="Repo size">
+    <img src="https://img.shields.io/github/languages/top/carloswunsche/mapty" alt="Prominent language">
 </div>
 
 ---
@@ -22,11 +22,11 @@ Omnifood is a front-end for a fictional food delivery company also named Omnifoo
 
 ## Live preview
 
-Access the live preview [following this link.](https://cw-omnifood.netlify.app)
+Access the live preview [following this link.](https://cw-mapty.netlify.app)
 
 ## Screenshots
 
-![Preview Image](/img/preview.png)
+![Preview Image](preview.png)
 
 ## Credits
 
