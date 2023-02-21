@@ -12,7 +12,7 @@
 
 ---
 
-Omnifood is a front-end for a fictional food delivery company also named Omnifood.
+Mapty is an app to save your workouts, mostly cardio, on the browser.
 
 ## Features
 
