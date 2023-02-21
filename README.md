@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://cw-mapty.netlify.app">
-    <img width="50%" src="logo.png" alt="Mapty Logo by Jonas Schmedtmann" title="Mapty Logo by Jonas Schmedtmann">
+    <img width="50%" src="logo-inverted.png" alt="Mapty Logo by Jonas Schmedtmann" title="Mapty Logo by Jonas Schmedtmann">
   </a>
 </div>
 <br/>
